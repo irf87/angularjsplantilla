@@ -1,0 +1,17 @@
+<h1>Planetas star wars</h1>
+<div>
+	<button ng-click="vm.getPlanets()">Ver planetas</button>
+	<br>
+	<div ng-if="vm.planets_array">
+		<ul>
+			<li ng-repeat="planet in vm.planets_array" ng-click="vm.miPlaneta = planet.name">{{ planet.name}}</li>
+		</ul>
+		<hr>
+		<h2>Ejemplo de ngModel</h2>
+		<input type="text" ng-model = "vm.miPlaneta" ng-init="vm.miPlaneta = 'Tierra'" />
+		<br>
+		<label> Mi planeta de origen es {{ vm.miPlaneta }}</label>
+		<br>
+		<button ng-click="vm.leer()">Leer variable del ngModel</button>
+	</div>
+</div>

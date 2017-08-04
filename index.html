@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="width">
+    <title> Plantilla html</title>
+  </head>
+
+  <body ng-app="app">
+
+    <ng-view ></ng-view>
+
+    <!-- ******************* -->
+    <!-- ***** Scripts ***** -->
+    <!-- ******************* -->
+
+    <script src="lib/angular/angular.min.js"></script>
+    <script src="lib/angular/angular-route.min.js"></script>
+    <script src="lib/angular/angular-sanitize.min.js"></script>
+
+    <!-- LIBS EXTERNAS -->
+
+    <!-- ***** Configuración ***** -->
+    <script src="app/app.js"></script>
+    <script src="app/rutas.js"></script>
+
+    <!-- ***** Servicios ***** -->
+
+    <!-- ***** Factories  ***** -->
+    <script src="app/factories/httpRequestFactory.js"></script>
+
+    <!-- ***** Filtros ***** -->
+
+    <!-- ***** Modules   *** -->
+    <script src="app/controllers/mainModule.js"></script>
+    <script src="app/controllers/starwarsModule.js"></script>
+   
+    <!-- ***** Controllers *** -->
+
+    <script src="app/controllers/mainCtrl.js"></script>
+    <script src="app/controllers/starwarsCtrl.js"></script>
+    
+  </body>
+
+</html>

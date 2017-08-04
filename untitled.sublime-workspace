@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pl",
+				"planets_array"
+			],
+			[
+				"get",
+				"getPlanets"
+			],
+			[
+				"ini",
+				"initFun"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fot",
+				"footer\tTag"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"T",
+				"TBODY\tTag"
+			],
+			[
+				"TH",
+				"THEAD\tTag"
+			],
+			[
+				"ge",
+				"getData"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"RE",
+				"respond"
+			],
+			[
+				"re",
+				"resolve"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/factories",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/views",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/lib",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/lib/angular"
+	],
+	"file_history":
+	[
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/views/mainView.html",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/controllers/starwarsModule.js",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/factories/httpRequestFactory.js",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/controllers/starwarsCtrl.js",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/views/starWars.html",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/controllers/mainCtrl.js",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/controllers/mainModule.js",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/app.js",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/rutas.js",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/index.html",
+		"/home/irf87/Develop/desarrollo/angularjsplantilla/app/controllers/serviciosInternet.js",
+		"/home/irf87/Develop/desarrollo/platzigram/package.json",
+		"/home/irf87/Develop/desarrollo/platzigram/server.js",
+		"/home/irf87/Develop/desarrollo/platzigram/public/app.css",
+		"/home/irf87/Develop/backend/uavi_backend/controller/loginCtrl.js",
+		"/home/irf87/Develop/backend/uavi_backend/app.js",
+		"/home/irf87/Develop/backend/productos/app.js",
+		"/home/irf87/Develop/desarrollo/platzigram/index.html",
+		"/home/irf87/Develop/desarrollo/platzigram/app.css",
+		"/home/irf87/Dropbox/RAIZ/Docs/ConfigSamba",
+		"/home/irf87/Documentos/Git workflows notes",
+		"/home/irf87/Descargas/platzigit-master/index.html",
+		"/home/irf87/Descargas/platzigit-master/x.txt",
+		"/home/irf87/bc",
+		"/home/irf87/Dropbox/RAIZ/Docs/LinuxDocs/Scripts/proyecto.sh",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/factories/PeticionesFactory.js",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/app/app.js",
+		"/home/irf87/Documentos/IndigoExam/database.sql",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/modulos/registrar/registrar.module.js",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/modulos/registrar/registrar.js",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/modulos/registrar/registrar.html",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/index.html",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/app/rutas.js",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/modulos/conteo/registrar.js",
+		"/home/irf87/Descargas/ND.apk_FILES/assets/www/js/controllers/historialCtrl.js",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/modulos/conteo/registrar.module.js",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/factories/PeticionesFactory.module.js",
+		"/home/irf87/Develop/desarrollo/web/candidatox/www/js/servicios/peticiones.js",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/css/general.css",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/modulos/conteo/registrar.html",
+		"/home/irf87/Develop/desarrollo/web/travelAgency/www/servicios/mat.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"httpRequestFactory",
+			"HttpRequestFactory",
+			"httpRequestFactory",
+			"HUESPED",
+			"servicioService",
+			"MainCtrl",
+			"ServiciosInternet",
+			"lou",
+			"TD",
+			"label",
+			"span",
+			"parseInt",
+			"oVuelos",
+			"host",
+			"Registrar",
+			"Mat",
+			"conteo",
+			"Conteo",
+			"DATE",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"`"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
